@@ -1,7 +1,7 @@
 # Tournament Management System – The Lighthouse Schools
 
 This project was done for a Requirements Engineering course (April 2025).  
-The goal was to design and document a system for managing sports tournaments between special education schools.
+The goal was to design and document a system for managing sports tournaments between special education schools (Created Application for that) 
 
 ## 📄 Project Summary
 
